@@ -1,44 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Happy
+[![linkedin](https://img.shields.io/badge/-Israel%20Lima-blue?logo=linkedin&&style=flat-square)](https://www.linkedin.com/in/israel-vitor-lima-86229116a/)
 
-## Available Scripts
+Happy é uma plataforma para tornar mais fácil descobrir quais orfanatos estão mais próximos de você e mostrar como você pode agendar e visitar as crianças. Esta aplicação web foi desenvolvida como projeto de treinamento na Next Level Week da Rocketseat, utilizando o React.
 
-In the project directory, you can run:
+Na aplicação os usuários que desejam visitar as criancinhas podem vizualizar no mapa quais os orfanatos existentes em suas cidades. Ao selecionar um orfanato específico o usuário poderá ver fotos, horário de funcionamento, instruções para visitas e outros detalhes. Um usuário que gerencia um orfanato também pode cadastrar sua instituição na plataforma preenchendo os campos necessários.
 
-### `yarn start`
+#### Telas
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![landing-page](https://github.com/israel-vitor/happy/blob/main/src/images/preview-images/landing-page.png)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+![map-page](https://github.com/israel-vitor/happy/blob/main/src/images/preview-images/map-page.png)
 
-### `yarn test`
+![create-orphanage-1](https://github.com/israel-vitor/happy/blob/main/src/images/preview-images/create-orphanage-1.png)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![create-orphanage-2](https://github.com/israel-vitor/happy/blob/main/src/images/preview-images/create-orphanage-2.png)
 
-### `yarn build`
+![orphanage-details-1](https://github.com/israel-vitor/happy/blob/main/src/images/preview-images/orphanage-details-1.png)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+![orphanage-details-2](https://github.com/israel-vitor/happy/blob/main/src/images/preview-images/orphanage-details-2.png)
